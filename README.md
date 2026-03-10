@@ -62,6 +62,12 @@ Each structural section serves a specific purpose for AI tools:
 
 ## Installation
 
+### Preferred 
+
+```bash
+npx skills add https://github.com/shahid0/prd-skill --skill prd-generator-skill
+```
+
 ### Option 1: Global (available in all projects)
 
 ```bash
